@@ -1,4 +1,4 @@
-def outputScript():
+def hng_details():
 	"""
 	A fucntion that outputs text of my details for HNG Internship
 	"""
@@ -14,4 +14,4 @@ def outputScript():
 	print(f'Hello World, this is {fullName} with HNGi7 ID {ID} using {language} for stage 2 task')
 	print(f'My email address is {email}')
 
-outputScript()	
+hng_detials()	
