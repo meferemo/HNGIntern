@@ -11,7 +11,7 @@ def hng_details():
 
 
 	#Print Output
-	print(f'Hello World, this is {fullName} with HNGi7 ID {ID} using {language} for stage 2 task')
-	print(f'My email address is {email}')
+	print(f'Hello World, this is {fullName} with HNGi7 ID {ID} using {language} for stage 2 task and my email is {email}')
+	
 
 hng_detials()	
